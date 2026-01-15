@@ -15,7 +15,7 @@ The goal was to learn, experiment, and improve over time. Feedback and suggestio
 
 
 # Installation
-To install this theme either SUPER+ALT+SPACE->Install->Style->Theme or simply use the omarchy-theme-install command:
+To install this theme either `SUPER+ALT+SPACE->Install->Style->Theme` or simply use the omarchy-theme-install command:
 
 ```bash
 omarchy-theme-install https://github.com/28bby/Snow-Theme.git
